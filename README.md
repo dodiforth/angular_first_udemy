@@ -12,7 +12,7 @@
 </p>
 
 
-## Introduction
+## Introduction (Checking implementation to macbookPro)
 
 This is a tutorial base project.
 <br>
