@@ -36,12 +36,9 @@ export class TasksComponent {
 
   }
 
-  onCancelAddTask() {
+  onCloseAddTask() {
     this.isAddingTask = false;
   }
 
-  onAddBySubmit(taskData: NewTaskData){
 
-    this.isAddingTask = false
-  }
 }
